@@ -9,7 +9,7 @@ Atualmente, sou estudante de Sistemas de Informação na UFVJM (Universidade Fed
 
 <div align="center">
 
-[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](www.linkedin.com/in/eduardo-silva44/)
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/eduardo-silva44/)
 [![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:eduardorodriguessilva444@gmail.com)
 [![Outlook](https://img.icons8.com/?size=50&id=117562&format=png&color=000000)](mailto:eduardorodriguessilva444@outlook.com)
 

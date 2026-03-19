@@ -4,8 +4,10 @@
 
 
 ## 🧑‍💻 Sobre mim
+  
+<p align="right">Atualmente, sou estudante de Sistemas de Informação na UFVJM (Universidade Federal dos Vales do Jequitinhonha e Mucuri). Proatividade, responsabilidade e comunicação em projetos são características marcantes, com o objetivo integrar uma equipe de tecnologia que me permita aprender continuamente, colaborar em soluções digitais e evoluir como desenvolvedor.</p>
 
-Atualmente, sou estudante de Sistemas de Informação na UFVJM (Universidade Federal dos Vales do Jequitinhonha e Mucuri). Proatividade, responsabilidade e comunicação em projetos são características marcantes, com o objetivo integrar uma equipe de tecnologia que me permita aprender continuamente, colaborar em soluções digitais e evoluir como desenvolvedor.
+<img align="right" alt="" height="190px" src="./src/perfil.gif">
 
 <div align="center">
 
@@ -14,8 +16,6 @@ Atualmente, sou estudante de Sistemas de Informação na UFVJM (Universidade Fed
 [![Outlook](https://img.icons8.com/?size=50&id=117562&format=png&color=000000)](mailto:eduardorodriguessilva444@outlook.com)
 
 </div>
-
-<img align="right" alt="" height="190px" src="./src/perfil.gif">
 
 </div>
 

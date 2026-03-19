@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 <img align="right" alt="" height="270px" width="30%" src="./src/perfil.gif">
-<p align="left">Atualmente, sou estudante de Sistemas de Informação na UFVJM (Universidade Federal dos Vales do Jequitinhonha e Mucuri). Proatividade, responsabilidade e comunicação em projetos são características marcantes, com o objetivo integrar uma equipe de tecnologia que me permita aprender continuamente, colaborar em soluções digitais e evoluir como desenvolvedor.</p>
+<p align="left">Atualmente, sou estudante de Sistemas de Informação na UFVJM (Universidade Federal dos Vales do Jequitinhonha e Mucuri). Proatividade, responsabilidade e comunicação em projetos são características notavéis, com o objetivo integrar uma equipe de tecnologia que me permita aprender continuamente, colaborar em soluções digitais e evoluir como desenvolvedor.</p>
 <br><br>
 <div align="center">
 
